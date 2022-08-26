@@ -1,0 +1,1 @@
+The transaction failed in the amount of 43, Date:2022-08-26 16:18:25.5735487 +0300 MSK m=+6.058019901
